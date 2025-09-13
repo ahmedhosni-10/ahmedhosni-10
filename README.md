@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hosni</h1>
-<h3 align="center">A passionate Ai&Ml Engineer from Egypt</h3>
+<h3 align="center">A passionate AI Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Mega platform project with Eyouth**
+- 🔭 I’m currently working on **Vision projects with Cellula technologies**
 
-- 🌱 I’m currently learning **machine learning, cloud, nlp,and Ai**
+- 🌱 I’m currently learning **machine learning, cloud, computer vision, and deployment**
 
 - 📫 How to reach me **ahmed.fee20us@gmail.com**
 
